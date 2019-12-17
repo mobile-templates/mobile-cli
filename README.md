@@ -5,6 +5,7 @@
 ## 安装
 
 ```bash
+npm config set registry https://repo.huaweicloud.com/repository/npm/
 npm install -g mobileh5-cli
 ```
 
